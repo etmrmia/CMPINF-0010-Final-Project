@@ -1,4 +1,4 @@
-# CMPINF-0010-Final-Project
+<h1>CMPINF-0010-Final-Project</h1>
 
-Team name:  Group 3
-Team members: Emma Tristano (emt101@pitt.edu), Janai Larry-Halsey (jsl79@pitt.edu), Zhexi Wu (zhw101@pitt.edu)
+<h3>Team name:</h3>  Group 3<br>
+<h3>Team members:</h3> Emma Tristano (emt101@pitt.edu), Janai Larry-Halsey (jsl79@pitt.edu), Zhexi Wu (zhw101@pitt.edu)
