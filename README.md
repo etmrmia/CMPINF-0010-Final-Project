@@ -26,4 +26,4 @@ https://data.wprdc.org/dataset/neighborhoods2
 
 <h2>Abstract</h2>
 
-group summary of metrics
+The objective of this project is to find the neighborhood in Pittsburgh that has the best environment for zombies to live in. In other words, we rank neighborhoods by measuring the survival difficulty for zombies. For that purpose, we constructed three sub-metrics that each measures a different feature of our main metric. The first sub-metric is population density, or the density of food supplies; the second sub-metric is obesity rate, or the easiness of catching food and the size of food; the third sub-metric is Walk Score, or the possibility of finding food. After our examination, the best neighborhood is the Central Business District.
